@@ -4,3 +4,5 @@ Repositorio para prueba de GIT remoto
 Contenido adicional
 
 ## Contenido adicional
+
+Cambios realizados en rama 2
